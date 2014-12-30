@@ -1,0 +1,1 @@
+A simple client-server application for file sharing
